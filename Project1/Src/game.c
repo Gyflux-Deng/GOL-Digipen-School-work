@@ -223,11 +223,14 @@ void game_update(void)
     MouseClick();
     if (!gIsPaused)
     {
-      gameplaylogic();
+        gameplaylogic();
     }
     PauseGame();
     renderingGame();
-  //  printf(printf("count %d", count));
-
 }
 
+//exit
+void game_exit(void)
+{
+    CP_Engine_Terminate();
+}

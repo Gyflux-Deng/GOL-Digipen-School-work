@@ -1,15 +1,15 @@
 ﻿  game.c
-D:\School\First Sems 2022\CSD1401_Game Department\GOL\Project1\Src\game.c(255,46): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
-D:\School\First Sems 2022\CSD1401_Game Department\GOL\Project1\Src\game.c(255,63): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
-D:\School\First Sems 2022\CSD1401_Game Department\GOL\Project1\Src\game.c(255,77): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
-D:\School\First Sems 2022\CSD1401_Game Department\GOL\Project1\Src\game.c(255,88): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
-D:\School\First Sems 2022\CSD1401_Game Department\GOL\Project1\Src\game.c(261,46): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
-D:\School\First Sems 2022\CSD1401_Game Department\GOL\Project1\Src\game.c(261,63): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
-D:\School\First Sems 2022\CSD1401_Game Department\GOL\Project1\Src\game.c(261,77): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
-D:\School\First Sems 2022\CSD1401_Game Department\GOL\Project1\Src\game.c(261,88): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
-D:\School\First Sems 2022\CSD1401_Game Department\GOL\Project1\Src\game.c(275,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-D:\School\First Sems 2022\CSD1401_Game Department\GOL\Project1\Src\game.c(276,45): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-  Project1.vcxproj -> D:\School\First Sems 2022\CSD1401_Game Department\GOL\Project1\bin\Debug-x64\Project1.exe
+D:\School\First Sems 2022\CSD1401_Game Department\GOL\GOL-Digipen-School-work\Project1\Src\game.c(198,46): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+D:\School\First Sems 2022\CSD1401_Game Department\GOL\GOL-Digipen-School-work\Project1\Src\game.c(198,63): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+D:\School\First Sems 2022\CSD1401_Game Department\GOL\GOL-Digipen-School-work\Project1\Src\game.c(198,77): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+D:\School\First Sems 2022\CSD1401_Game Department\GOL\GOL-Digipen-School-work\Project1\Src\game.c(198,88): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+D:\School\First Sems 2022\CSD1401_Game Department\GOL\GOL-Digipen-School-work\Project1\Src\game.c(204,46): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+D:\School\First Sems 2022\CSD1401_Game Department\GOL\GOL-Digipen-School-work\Project1\Src\game.c(204,63): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+D:\School\First Sems 2022\CSD1401_Game Department\GOL\GOL-Digipen-School-work\Project1\Src\game.c(204,77): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+D:\School\First Sems 2022\CSD1401_Game Department\GOL\GOL-Digipen-School-work\Project1\Src\game.c(204,88): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+D:\School\First Sems 2022\CSD1401_Game Department\GOL\GOL-Digipen-School-work\Project1\Src\game.c(218,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\School\First Sems 2022\CSD1401_Game Department\GOL\GOL-Digipen-School-work\Project1\Src\game.c(219,45): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Project1.vcxproj -> D:\School\First Sems 2022\CSD1401_Game Department\GOL\GOL-Digipen-School-work\Project1\bin\Debug-x64\Project1.exe
   1 File(s) copied
   1 File(s) copied
   3 File(s) copied
